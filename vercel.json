@@ -3,4 +3,8 @@
     "silent": true
   }
   
+  {
+  "framework": "nextjs"
+}
+  
 }
