@@ -5,11 +5,11 @@
   "ascii": "Koljan",
   "social": {
     "github": "github",
-    "linkedin": "linkedin"
+    "linkedin": "https://www.linkedin.com/in/tihhonov/"
   },
   "email": "tihhonov@gmail.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
+  "ps1_hostname": "ee.tihhonov",
+  "ps1_username": "guest",
   "repo": "https://github.com/Cveinnt/LiveTerm",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
   "donate_urls": {
